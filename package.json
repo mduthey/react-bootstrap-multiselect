@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-multiselect",
+  "name": "@mduthey/react-bootstrap-multiselect",
   "version": "2.3.0",
   "description": "A multiselect component for react (with bootstrap). This is a react port of: https://github.com/davidstutz/bootstrap-multiselect",
   "main": "./lib/index.js",
@@ -9,13 +9,13 @@
     "start": "gulp default",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "skratchdot",
+  "author": "mduthey",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skratchdot/react-bootstrap-multiselect.git"
+    "url": "git@github.com:mduthey/react-bootstrap-multiselect.git"
   },
   "bugs": {
-    "url": "https://github.com/skratchdot/react-bootstrap-multiselect/issues"
+    "url": "https://github.com/mduthey/react-bootstrap-multiselect/issues"
   },
   "license": [
     "Apache-2.0",
